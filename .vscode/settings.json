@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "headfile.h": "c",
+        "stm32f10x.h": "c",
+        "stm32f10x_adc.h": "c",
+        "core_cm3.h": "c",
+        "stm32f10x_conf.h": "c",
+        "stdint.h": "c",
+        "akm_initial.h": "c",
+        "akm_volt.h": "c",
+        "vector": "cpp",
+        "mpu_6050.h": "c",
+        "akm_control.h": "c",
+        "akm_uart_pi.h": "c",
+        "string": "c",
+        "vofaplus.h": "c",
+        "akm_tim.h": "c",
+        "taskloop.h": "c",
+        "akm_servo.h": "c"
+    },
+    // "files.autoSave": "afterDelay",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerPath": "",
+
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "'JetBrains Mono NL', 'Maple Mono NF CN'",
+    "editor.fontWeight": 500,
+}
