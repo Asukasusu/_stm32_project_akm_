@@ -9,5 +9,5 @@
 KEIL5、VScode
 
 ## 引用
-[CloverGit](https://github.com/CloverGit/Vofa-Plus-Protocol-Driver)  
+[CloverGit](https://github.com/CloverGit/Vofa-Plus-Protocol-Driver)作者根据VOFA+的JUSTFLOAT数据协议模式编写的数据发送库  
 [huangcheng188](https://blog.csdn.net/HC_huangcheng/article/details/101762634)
