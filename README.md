@@ -6,7 +6,7 @@
 基于STM32F103RC和STM32标准库建立的工程
 
 ## 任务简介
-3ms&nbsp;&nbsp;&nbsp;执行一次 解析数据包任务  
+3ms&nbsp;&nbsp;&nbsp;&nbsp;执行一次 解析数据包任务  
 10ms&nbsp;&nbsp;执行一次 MPU6050的DMP库解算三轴角度  
 20ms&nbsp;&nbsp;执行一次 舵机控制、电机控制并向NVIDA Jetson Nano发送一次数据包  
 103ms&nbsp;执行一次 电池电源检测函数
