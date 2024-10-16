@@ -3,7 +3,7 @@
 volatile uint32_t sysTickUpTimes = 0;
 
 /* 接收树莓派发送来的数据包 */
-static void TaskDuty_3ms(void)
+static void TaskDuty_2ms(void)
 {
     UART_ReceDataPack();
 }
@@ -32,7 +32,7 @@ static sched_task_t sched_tasks[] =
     {TaskDuty_103ms ,  103, 0},
     {TaskDuty_20ms  ,   20, 0},
     {TaskDuty_10ms  ,   10, 0},
-    {TaskDuty_3ms   ,    3, 0}
+    {TaskDuty_2ms   ,    2, 0}
 
 };
 
