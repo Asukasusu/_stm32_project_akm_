@@ -41,7 +41,6 @@ int main(void)
     for (;;) {
 
         TaskLoop_Run();
-
     }
 
 }
