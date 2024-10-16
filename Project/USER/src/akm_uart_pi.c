@@ -240,8 +240,7 @@ static uint8_t USART_Data_Copy(USART_Stru* pusart, uint8_t len) {
     // 选择对应的函数
     p_func[pusart->buffer_t[3] - 0x11].p_fun(pusart);
     // typedef pfunc(pusart);    //函数指针可以使用
-
-
+    
     BEEP_Off();
     return 1;
 }
